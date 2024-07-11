@@ -9,7 +9,7 @@ This project is a Netflix Clone built using the MERN stack. It includes a fronte
 - User Authentication: Secure login and registration using Firebase.
 - Real-time Notifications: Users receive real-time updates using `react-hot-toast`.
 - Comprehensive Movie Data: Integrated with IMDb and custom RESTful APIs for fetching movie data.
-- 
+  
 ## Tech Stack
 
 ### Frontend
